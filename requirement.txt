@@ -2,3 +2,4 @@
 snowflake-connector-python
 snowflake-snowpark-python
 streamlit
+python-3.9
