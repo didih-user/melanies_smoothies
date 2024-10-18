@@ -2,6 +2,9 @@
 import streamlit as st
 from snowflake.snowpark.functions import col
 
+import os
+os.system('pip install snowflake-snowpark-python')
+
 
 # Write directly to the app
 st.title(":cup_with_straw: Customize Your Smoothie!:cup_with_straw:")
